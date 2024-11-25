@@ -7,6 +7,6 @@ const x = 100;
 // local example
 function add() {
   const y = 100;
-  console.log(y);
+  console.log(x + y);
 }
 add();
