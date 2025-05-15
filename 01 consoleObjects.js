@@ -8,3 +8,6 @@ console.log(x)
 console.error('alert')
 console.warn('warning')
 console.groupEnd()
+
+const styles = 'padding:10px; background-color:red'
+console.log(styles)
