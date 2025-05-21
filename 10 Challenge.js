@@ -1,5 +1,5 @@
 // Ca[italize onlly one D]
-let myString = 'developer'
-myString = myString.charAt('d').toUpperCase() + myString.substring('1')
+let myString = 'developer';
+myString = myString.charAt(0).toUpperCase() + myString.substring(1);
 
-console.log(myString)
+console.log(myString);
